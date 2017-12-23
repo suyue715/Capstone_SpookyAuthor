@@ -11,3 +11,8 @@ Codes Kernel:
 https://www.kaggle.com/suyue715/spooky-eda
 
 https://www.kaggle.com/suyue715/tfidfvectorizer
+
+
+Presentation:
+
+https://docs.google.com/presentation/d/1j62yYgzEitVx_YCkuEdai17SVJLEEhZySTBpo6QoTK4/edit?usp=sharing
